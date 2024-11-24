@@ -6,7 +6,17 @@ This repository contains a collection of projects I completed while studying at 
 
 I'm in the process of consolidating my projects into this single repository. Previously, each project had its own separate repository, but I'm now migrating them to this central location.
 
-- [WIP](WIP)
+#### Piscine
+
+The `piscine` is an intensive, month-long introduction to the 42 curriculum, designed to immerse students in the basics of programming and software development.
+
+-   [WIP](WIP)
+
+#### Cursus
+
+The `cursus` is the core curriculum of 42, a comprehensive program that covers a wide range of topics in computer science and software development.
+
+-   [WIP](WIP)
 
 ## Contributing
 
