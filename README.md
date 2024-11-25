@@ -10,7 +10,16 @@ I'm in the process of consolidating my projects into this single repository. Pre
 
 The `piscine` is an intensive, month-long introduction to the 42 curriculum, designed to immerse students in the basics of programming and software development.
 
--   [WIP](WIP)
+-   [C 00](piscine/c-00)
+-   [C 01](piscine/c-01)
+-   [C 02](piscine/c-02)
+-   [C 03](piscine/c-03)
+-   [C 04](piscine/c-04)
+-   [C 05](piscine/c-05)
+-   [C 06](piscine/c-06)
+-   [C 07](piscine/c-07)
+-   [C 08](piscine/c-08)
+-   [C 09](piscine/c-09)
 
 #### Cursus
 
